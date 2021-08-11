@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vengaelan@gmail.com
+	name = Venga Elan
